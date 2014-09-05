@@ -9,3 +9,5 @@ Thumbs.db
 .idea
 /log
 /app/config/database.php
+CONTRIBUTING.md
+readme.md
